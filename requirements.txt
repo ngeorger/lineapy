@@ -34,7 +34,7 @@ pytest-virtualenv==1.7.0
 pytest-xdist==2.5.0
 requests==2.27.1
 rich==12.2.0
-scikit-learn==1.0.2
+scikit-learn==1.5.0
 scipy==1.7.3
 scour==0.38.2
 seaborn==0.11.2
